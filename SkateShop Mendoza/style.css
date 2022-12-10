@@ -1,0 +1,25 @@
+.headTitle {
+  background-color: #565264;
+  margin-bottom: 18px;
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: #ccb7ae;
+}
+.title {
+  font-family: "Fira Sans", sans-serif;
+  color: #d6cfcb;
+}
+
+.cardProducto {
+  width: 250px;
+  margin: 4px;
+  justify-content: center;
+}
+
+.botonFinalizar {
+  width: 250px;
+  height: 60px;
+  font-size: 20px;
+}

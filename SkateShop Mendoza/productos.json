@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tabla",
+    "precio": 270,
+    "imagen": "./assets/skate-inicial.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Ruedas",
+    "precio": 80,
+    "imagen": "./assets/ruedas-skate.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Trucks",
+    "precio": 250,
+    "imagen": "./assets/trucks.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Rodamientos",
+    "precio": 50,
+    "imagen": "./assets/Rodamientos.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Zapatos",
+    "precio": 300,
+    "imagen": "./assets/shoes.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Camisa",
+    "precio": 150,
+    "imagen": "./assets/Shirt.jpeg"
+  },
+  { "id": 7, "nombre": "Gorra", "precio": 90, "imagen": "./assets/gorra.jpg" },
+  {
+    "id": 8,
+    "nombre": "Chaleco",
+    "precio": 200,
+    "imagen": "./assets/chaleco.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Tabla completa",
+    "precio": 450,
+    "imagen": "./assets/full-skate.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Buso",
+    "precio": 150,
+    "imagen": "./assets/buso-independent.jpg"
+  }
+]
